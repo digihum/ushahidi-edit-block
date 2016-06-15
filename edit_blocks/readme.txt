@@ -6,6 +6,7 @@ requires: 2.1
 tested up to: 2.1
 author: Pgogy Webstuff
 author website: http://www.pgogywebstuff.com
+css: edit_blocks.css
 
 == Description ==
 Creates a proper edit block

@@ -14,7 +14,7 @@ class edit_blocks { // CHANGE THIS FOR OTHER BLOCKS
 	}
 	public function block($user_id, $report_id)
 	{
-		/*
+		
 		// Load the reports block view
 		$content = new View('edit_blocks'); // CHANGE THIS IF YOU WANT A DIFFERENT VIEW
 		
@@ -46,7 +46,7 @@ class edit_blocks { // CHANGE THIS FOR OTHER BLOCKS
 		if($counter){
 			echo $content;
 		}
-		*/
+		
 	}
 }
 new edit_blocks;
