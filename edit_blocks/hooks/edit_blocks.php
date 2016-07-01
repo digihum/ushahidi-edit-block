@@ -12,6 +12,7 @@ class edit_blocks { // CHANGE THIS FOR OTHER BLOCKS
 		// register block with core, this makes it available to users 
 		blocks::register($block);
 	}
+
 	public function block($user_id, $report_id)
 	{
 		
